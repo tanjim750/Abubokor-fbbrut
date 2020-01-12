@@ -16,6 +16,8 @@ Noob Hacker
 
 ★ pip install mechanize
 
+★ ls
+
 ★ python3 tanjimfb
 
 # screenshots 
