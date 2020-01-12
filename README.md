@@ -21,7 +21,7 @@ Noob Hacker
 # screenshots 
 ![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
 ![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
+![CAPTURE 1](https://github.com/tanjim750/Abubokor-fbbrut/blob/master/Screenshot_termux.jpg)
 
 
 
