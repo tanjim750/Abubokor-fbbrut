@@ -3,20 +3,20 @@ Noob Hacker
 
 # Termux Commands
 
-★pkg install python3
+★ pkg install python3
 
-★pkg install git
+★ pkg install git
 
-★git clone https://github.com/tanjim750/Abubokor-fbbrut.git
+★ git clone https://github.com/tanjim750/Abubokor-fbbrut.git
 
-★cd Abubokor-fbbrut
+★ cd Abubokor-fbbrut
 
-★pip3 install requests bs4
+★ pip3 install requests bs4
 
 
-★pip install mechanize
+★ pip install mechanize
 
-★python3 tanjimfb
+★ python3 tanjimfb
 
 # screenshots 
 ![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
@@ -30,3 +30,5 @@ Noob Hacker
 https://www.facebook.com/tamjim.abubokor.570
 
 # created by Tanjim Abubokor
+
+# Working
