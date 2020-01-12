@@ -18,8 +18,11 @@ Noob Hacker
 
 ★python3 tanjimfb
 
-# screenshot
-![CAPTURE 1]https://github.com/tanjim750/Abubokor-fbbrut.git(/blob/master/Screenshot_termux.jpg)
-![CAPTURE 1]https://github.com/tanjim750/Abubokor-fbbrut.git(/blob/master/termux_ss.jpg)
+# screenshots 
+![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
+![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
+![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
+
+
 
 # contact 
