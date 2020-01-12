@@ -20,7 +20,7 @@ Noob Hacker
 
 # screenshots 
 
-![CAPTURE 1](https://github.com/tanjim750/Abubokor-fbbrut/commit/91be0fc7127789a99d905476644802be9f2e5491)
+![CAPTURE 1](https://github.com/tanjim750/Abubokor-fbbrut/blob/master/IMG_20200112_000935.jpg)
 ![CAPTURE 1](https://github.com/tanjim750/Abubokor-fbbrut/blob/master/Screenshot_termux.jpg)
 
 
