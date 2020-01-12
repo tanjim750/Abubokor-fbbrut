@@ -1,7 +1,7 @@
 # Abubokor-fbbrut
 Noob Hacker
 
-#Termux Commands
+# Termux Commands
 
 ★pkg install python3
 
@@ -17,3 +17,6 @@ Noob Hacker
 ★pip install mechanize
 
 ★python3 fb.py or python fb2.py 
+
+# screenshot
+ 
