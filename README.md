@@ -16,7 +16,7 @@ Noob Hacker
 
 ★pip install mechanize
 
-★python3 fb.py or python fb2.py 
+★python3 tanjimfb
 
 # screenshot
  
