@@ -19,12 +19,10 @@ Noob Hacker
 ★python3 tanjimfb
 
 # screenshots 
-![CAPTURE 1](https://m.facebook.com/story.php?story_fbid=105589277500667&substory_index=0&id=100041487849164)
-![CAPTURE 1](https://githhttps://m.facebook.com/story.php?story_fbid=182150046511256&id=100041487849164)
-
+![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
+![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
+![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
 
 
 
 # contact 
-
-https://www.facebook.com/tamjim.abubokor.570
