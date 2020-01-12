@@ -19,7 +19,7 @@ Noob Hacker
 ★python3 tanjimfb
 
 # screenshot
-![CAPTURE 1](/blob/master/)
-![CAPTURE 1](/blob/master/)
+![CAPTURE 1]https://github.com/tanjim750/Abubokor-fbbrut.git(/blob/master/Screenshot_termux.jpg)
+![CAPTURE 1]https://github.com/tanjim750/Abubokor-fbbrut.git(/blob/master/termux_ss.jpg)
 
 # contact 
